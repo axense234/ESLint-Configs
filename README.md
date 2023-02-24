@@ -17,9 +17,28 @@ npm install -D eslint prettier eslint-config-airbnb eslint-plugin-airbnb eslint-
 ```
 
 - [**_Node with Typescript_**](https://github.com/axense234/ESLint-Configs/blob/master/node-ts.json)
+
+```
+npm install -D eslint prettier eslint-config-airbnb eslint-plugin-airbnb eslint-config-prettier eslint-plugin-prettier eslint-config-node eslint-plugin-node @typescript-eslint/eslint-plugin @typescript-eslint/parser
+```
+
 - [**_React with Javascript_**](https://github.com/axense234/ESLint-Configs/blob/master/react-jsx.json)
+
+```
+npm install -D eslint prettier eslint-config-airbnb eslint-plugin-airbnb eslint-config-prettier eslint-plugin-prettier
+```
+
 - [**_React with Typescript_**](https://github.com/axense234/ESLint-Configs/blob/master/react-tsx.json)
+
+```
+npm install -D eslint prettier eslint-config-airbnb eslint-plugin-airbnb eslint-config-prettier eslint-plugin-prettier @typescript-eslint/eslint-plugin @typescript-eslint/parser
+```
+
 - [**_React and Node with Typescript_**](https://github.com/axense234/ESLint-Configs/blob/master/react-tsx-with-node-ts.json)
+
+```
+npm install -D eslint prettier eslint-config-airbnb eslint-plugin-airbnb eslint-config-prettier eslint-plugin-prettier eslint-config-node eslint-plugin-node @typescript-eslint/eslint-plugin @typescript-eslint/parser
+```
 
 ## **Authors**
 
