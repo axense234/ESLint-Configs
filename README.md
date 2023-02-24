@@ -55,7 +55,3 @@ npm install -D eslint prettier eslint-config-airbnb eslint-plugin-airbnb eslint-
 ## **License**
 
 This project is licensed under the GNU License - see the LICENSE.md file for details
-
-## **Acknowledgments**
-
-- Inspired by [_John Smilga 15 React Projects_](https://www.youtube.com/watch?v=a_7Z7C_JCyo&t=8s)
