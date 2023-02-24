@@ -1,0 +1,47 @@
+{
+  "extends": ["prettier", "plugin:@typescript-eslint/recommended", "airbnb"],
+  "plugins": ["prettier"],
+  "parser": "@typescript-eslint/parser",
+  "root": true,
+  "rules": {
+    "quotes": "off",
+    "linebreak-style": "off",
+    "implicit-arrow-linebreak": "off",
+    "indent": "off",
+    "jsx-quotes": "off",
+    "function-paren-newline": "off",
+    "arrow-body-style": "off",
+    "camelcase": "off",
+    "semi": "off",
+    "comma-dangle": "off",
+    "operator-linebreak": "off",
+    "object-curly-newline": "off",
+
+    "no-console": "warn",
+    "no-unused-vars": "off",
+    "no-undef": "warn",
+    "no-param-reassign": "off",
+    "no-use-before-define": "off",
+    "no-loop-func": "off",
+
+    "@typescript-eslint/no-unused-vars": "off",
+    "@typescript-eslint/no-explicit-any": "off",
+
+    "import/no-unresolved": "off",
+    "import/extensions": "off",
+    "import/no-extraneous-dependencies": "off",
+
+    "jsx-a11y/label-has-associated-control": "off",
+    "jsx-a11y/no-noninteractive-element-interactions": "off",
+    "jsx-a11y/click-events-have-key-events": "off",
+
+    "react/jsx-filename-extension": "off",
+    "react/jsx-no-useless-fragment": "off",
+    "react/no-unescaped-entities": "off",
+    "react/function-component-definition": "off",
+    "react/react-in-jsx-scope": "off",
+    "react/prop-types": "off",
+    "react/jsx-curly-newline": "off",
+    "react/jsx-one-expression-per-line": "off"
+  }
+}
