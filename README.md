@@ -47,8 +47,8 @@ npm install -D eslint prettier eslint-config-airbnb eslint-plugin-airbnb eslint-
 ## **Version History**
 
 - 0.2
-  - Cleaned up unnecessary React code,improved folder structure.
-  - See [commit change](https://github.com/axense234/Cocktails-REACT/commits/master) or See [release history](https://github.com/axense234/Cocktails-REACT/releases)
+  - Added configs for node-js,node-ts,react-jsx,react-tsx,react-tsx with node-js
+  - See [commit change](https://github.com/axense234/ESLint-Configs/commits/master) or See [release history](https://github.com/axense234/ESLint-Configs/releases)
 - 0.1
   - Initial Release
 
